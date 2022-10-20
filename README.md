@@ -1,4 +1,4 @@
-# nodejs, express, typescript
+## nodejs, express, typescript
 
 ## Examples of requests
 
@@ -32,4 +32,4 @@ Body
 
 ### delete-todo
 
-DELTE http://localhost:3000/todos/{id}
+DELETE http://localhost:3000/todos/{id}
