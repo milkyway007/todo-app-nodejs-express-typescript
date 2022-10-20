@@ -1,6 +1,7 @@
 ## nodejs, express, typescript
 
 yarn install
+
 yarn start
 
 ## Examples of requests
